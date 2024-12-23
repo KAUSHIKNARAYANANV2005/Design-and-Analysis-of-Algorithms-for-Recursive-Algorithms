@@ -1,0 +1,6 @@
+git branch master
+git branch -a
+git checkout master
+git add .
+git commit -m 'hj'
+git push origin master  

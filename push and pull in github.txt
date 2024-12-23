@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m 'done'
+go to git hub create repo then copy push code and paste here
+to pull : commit changes in GitHub then 
+git pull+

@@ -1,0 +1,8 @@
+ nginx-deployment.yaml - file name
+kubectl version --client
+kubectl cluster-info 
+kubectl apply -f nginx-deployment.yaml 
+kubectl get pods 
+kubectl expose deployment nginx-deployment --type=NodePort --name=nginx-service 
+kubectl get svc 
+copy the number and put that in google http://localhost:number/
